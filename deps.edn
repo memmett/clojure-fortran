@@ -1,0 +1,2 @@
+{:deps
+ {hw {:local/root "helloworld.jar"}}}
